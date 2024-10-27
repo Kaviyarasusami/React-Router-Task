@@ -1,5 +1,5 @@
 import React from 'react';
-import CartItem from '../components/Cartitem';
+import CartItem from '../components/CartItem';
 
 
 const CartPage = ({ cart, removeFromCart, updateQuantity }) => {
@@ -15,6 +15,7 @@ const CartPage = ({ cart, removeFromCart, updateQuantity }) => {
       ) : (
         <div>
           {cart.map((item) => (
+            
             
             <CartItem
               key={item.id}
