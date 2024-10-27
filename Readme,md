@@ -1,0 +1,23 @@
+# E-commerce Application
+
+This is a basic e-commerce application using ReactJS and the Fake Store API to display a list of products, add items to the cart, adjust quantities, and calculate the total price.
+
+## Features
+- View product list with details (title, price, and image).
+- Add and remove products in the cart.
+- Adjust quantity in the cart.
+- Apply a 10% discount to the total price in the cart.
+
+## Technologies Used
+- ReactJS
+- React Router
+- Tailwind CSS
+- JavaScript
+
+## Installation
+1. Clone the repository.
+2. Run `npm install` to install dependencies.
+3. Run `npm start` to launch the app.
+
+## Deployment
+The app can be deployed on Netlify or any static hosting platform.
