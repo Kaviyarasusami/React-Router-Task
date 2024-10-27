@@ -16,4 +16,4 @@ const ProductCard = ({ product, addToCart }) => {
   );
 };
 
-export default Productcard;
+export default ProductCard;
